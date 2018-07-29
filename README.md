@@ -1,7 +1,6 @@
-# DesignPatterns
+# ThoughtWorks2019秋招内推_小作业_创建迷宫
 
-C++ Design Patterns.
-
-All projects are based on VS 2015.
-
-See also: [C++ Design Patterns](http://blog.csdn.net/u011012932/article/category/6783147 "C++ Design Patterns")
+## 宋日成_四川大学_2019届_通信与信息系统
+* RoadMap.h 类定义
+* RoadMap.cpp 类实现
+* main.cpp 主函数接口，完成输入输出
